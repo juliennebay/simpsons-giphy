@@ -3,7 +3,7 @@ const API_KEY = "Qg1q7Rp8iVTA1TtX45hmK0ESU21X3cA0"
 function loadScript(){
     const button = document.querySelector("button")
     const ul = document.querySelector("ul")
-    const input = document.querySelector("input")
+    //const input = document.querySelector("input")
     const loading = document.querySelector(".loading")
     loading.hidden = true
 
